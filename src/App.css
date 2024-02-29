@@ -1,0 +1,22 @@
+.sqr{
+    width:30px;
+    background-color: gray;
+    height:30px;
+    margin:20px;
+    display:inline-block
+}
+.grid{
+text-align:center
+}
+.inline-div{
+    display:inline-block;
+    width:50%
+}
+input{
+padding: 10px;
+      margin: 5px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
